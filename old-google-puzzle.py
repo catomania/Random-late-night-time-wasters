@@ -9,8 +9,6 @@ vending_machine = [917, 134, 1569, 1649, 1431, 1622, 233, 2094, 1072, 915, 1922,
 
 buttons = [16, 23, 61, 7, 7, 7, 13, 13, 13, 19, 19, 21, 27, 56, 56, 73, 77, 97, 11, 37, 41]
 
-x = 0
-
 #calculate the Google vending machine formula: 
 
 
