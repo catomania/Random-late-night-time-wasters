@@ -1,3 +1,6 @@
 Found this website here: http://newcoder.io/about/
 
 Am starting to work through the beginner's tutorial (which, while 'beginner' is still a step more advanced compared to Learn Python The Hard Way or Automate The Boring Stuff. There is a larger emphasis on git commands.
+
+Just figured out how to push add an existing project to Github: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
