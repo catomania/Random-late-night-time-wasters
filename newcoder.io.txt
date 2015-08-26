@@ -4,3 +4,4 @@ Am starting to work through the beginner's tutorial (which, while 'beginner' is 
 
 Just figured out how to push add an existing project to Github: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
+Ah, may need to scrap and replace the whole thing because I uploaded a 'child' directory when I should have uploaded the 'new coder' file instead. 
