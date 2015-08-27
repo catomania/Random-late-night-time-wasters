@@ -9,3 +9,5 @@ Just figured out how to push add an existing project to Github: https://help.git
 Ah, may need to scrap and replace the whole thing because I uploaded a 'child' directory when I should have uploaded the 'new coder' file instead. 
 
 -Basic Git command references: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+-General rules of ordering imports: Standard Library modules, External/third party packages/modules, Internal/self-written modules (most mainstream to least mainstream?)
