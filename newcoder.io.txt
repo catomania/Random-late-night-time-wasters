@@ -13,3 +13,5 @@ Ah, may need to scrap and replace the whole thing because I uploaded a 'child' d
 -General rules of ordering imports: Standard Library modules, External/third party packages/modules, Internal/self-written modules (most mainstream to least mainstream?)
 
 -Reminder to self: after I make my virtualenv, I need to manually re-install the requirements.txt stuff http://newcoder.io/dataviz/part-0/
+
+-Changing remote URLs https://help.github.com/articles/changing-a-remote-s-url/
