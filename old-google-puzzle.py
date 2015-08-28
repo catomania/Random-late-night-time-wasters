@@ -1,5 +1,5 @@
 #! python3
-# googleLabs.py - attempt to try and solve an old Google recruiting question...by using BRUTE force!
+# old-google-puzzle.py - attempt to try and solve an old Google recruiting question...by using BRUTE force!
 # from here: https://rachelbythebay.com/w/2012/04/15/labs/
 import random
 
