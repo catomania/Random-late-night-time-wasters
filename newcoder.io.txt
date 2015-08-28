@@ -17,3 +17,5 @@ Ah, may need to scrap and replace the whole thing because I uploaded a 'child' d
 -Changing remote URLs https://help.github.com/articles/changing-a-remote-s-url/
 
 -Reminder to self: be sure to checkout a not-master branch before I start working!! 
+
+-New Coder tutorial on git workflow (very useful): http://newcoder.io/begin/save-your-progress/
