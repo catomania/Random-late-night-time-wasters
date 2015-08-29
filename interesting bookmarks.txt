@@ -1,1 +1,3 @@
 http://www.learndatasci.com/free-books/
+
+http://www.git-scm.com/book/en/v2
