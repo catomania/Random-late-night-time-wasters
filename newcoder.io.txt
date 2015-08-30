@@ -19,3 +19,5 @@ Ah, may need to scrap and replace the whole thing because I uploaded a 'child' d
 -Reminder to self: be sure to checkout a not-master branch before I start working!! 
 
 -New Coder tutorial on git workflow (very useful): http://newcoder.io/begin/save-your-progress/
+
+-Accidentally borked the README file but I was able to use 'fetch' and 'checkout' to get it back from the econchick's remote repository (followed instructions here http://stackoverflow.com/questions/3949804/force-overwrite-of-local-file-with-whats-it-origin-repo)
