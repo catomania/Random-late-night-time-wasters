@@ -4,3 +4,5 @@ http://www.git-scm.com/book/en/v2
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
 https://growsdk.org/start/
+
+http://www.rafekettler.com/magicmethods.html
