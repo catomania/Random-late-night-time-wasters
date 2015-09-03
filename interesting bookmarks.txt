@@ -6,3 +6,5 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository
 https://growsdk.org/start/
 
 http://www.rafekettler.com/magicmethods.html
+
+http://eagain.net/articles/git-for-computer-scientists/
