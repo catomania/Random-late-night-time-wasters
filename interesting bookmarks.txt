@@ -8,3 +8,5 @@ https://growsdk.org/start/
 http://www.rafekettler.com/magicmethods.html
 
 http://eagain.net/articles/git-for-computer-scientists/
+
+http://www.roguelynn.com/pages/
