@@ -10,3 +10,5 @@ http://www.rafekettler.com/magicmethods.html
 http://eagain.net/articles/git-for-computer-scientists/
 
 http://www.roguelynn.com/pages/
+
+http://kelukelu.me/writing/wordreplace.html
