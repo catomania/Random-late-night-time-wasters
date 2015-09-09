@@ -14,3 +14,7 @@ http://www.roguelynn.com/pages/
 http://kelukelu.me/writing/wordreplace.html
 
 http://python-textbok.readthedocs.org/en/latest/Sorting_and_Searching_Algorithms.html
+
+http://geekly-yours.blogspot.com/2014/03/dijkstra-algorithm-python-example-source-code-shortest-path.html
+
+https://www.reddit.com/r/learnprogramming/comments/3k3p78/the_dark_side_of_coding_bootcamps/
