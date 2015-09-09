@@ -12,3 +12,5 @@ http://eagain.net/articles/git-for-computer-scientists/
 http://www.roguelynn.com/pages/
 
 http://kelukelu.me/writing/wordreplace.html
+
+http://python-textbok.readthedocs.org/en/latest/Sorting_and_Searching_Algorithms.html
