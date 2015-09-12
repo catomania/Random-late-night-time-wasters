@@ -21,3 +21,7 @@ Ah, may need to scrap and replace the whole thing because I uploaded a 'child' d
 -New Coder tutorial on git workflow (very useful): http://newcoder.io/begin/save-your-progress/
 
 -Accidentally borked the README file but I was able to use 'fetch' and 'checkout' to get it back from the econchick's remote repository (followed instructions here http://stackoverflow.com/questions/3949804/force-overwrite-of-local-file-with-whats-it-origin-repo)
+
+-API tutorial's reference code is throwing an error, I've opened an issue.
+
+-Finished up the Scraper tutorial but now I'm retracing my steps to get a more intuitive understanding of what I built.
