@@ -26,3 +26,5 @@ http://pythontips.com/2013/09/29/the-python-yield-keyword-explained/
 http://www.alexkras.com/19-git-tips-for-everyday-use/
 
 adding files to gitignore: http://www.tilcode.com/how-to-quickly-add-lines-to-gitignore-using-the-command-line/
+
+create git branch and checkout that branch in 1 command: http://dropshado.ws/post/5421706761/git-create-and-checkout-new-branch
