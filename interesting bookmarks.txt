@@ -30,3 +30,5 @@ adding files to gitignore: http://www.tilcode.com/how-to-quickly-add-lines-to-gi
 create git branch and checkout that branch in 1 command: http://dropshado.ws/post/5421706761/git-create-and-checkout-new-branch
 
 reference for multiple versions of python: http://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux
+
+Why we use def meth(self, arg) instead of def meth(arg): http://neopythonic.blogspot.com/2008/10/why-explicit-self-has-to-stay.html
