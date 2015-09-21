@@ -2,6 +2,11 @@ Spent way too much of my time figuring out how to create key bindings on Sublime
 
 Here is what I have thus far:
 
+References: 
+
+Opening repl: http://superuser.com/questions/584294/sublime-text-2-assign-a-keyboard-shortcut-to-a-tool
+Running current file: http://www.programering.com/a/MTOyUzNwATY.html
+
 [{
     "keys": ["command+r"],
     "command": "repl_open",
