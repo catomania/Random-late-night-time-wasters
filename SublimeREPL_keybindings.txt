@@ -5,6 +5,7 @@ Here is what I have thus far:
 References: 
 
 Opening repl: http://superuser.com/questions/584294/sublime-text-2-assign-a-keyboard-shortcut-to-a-tool
+Launch python virtualenv: http://stackoverflow.com/questions/28531936/keybinding-for-sublimerepl-to-launch-a-python-virtualenv
 Running current file: http://www.programering.com/a/MTOyUzNwATY.html
 Actual code from SublimeREPL: https://github.com/wuub/SublimeREPL/blob/master/config/Python/Main.sublime-menu
 
