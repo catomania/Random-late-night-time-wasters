@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/finding-the-percentage
 
+# comments on my code: http://collabedit.com/bsnjx
+
 list = []
 
 # grab all the inputs
