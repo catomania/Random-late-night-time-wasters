@@ -40,3 +40,5 @@ Metacircular Evaluator (from SICP), the 'soul' of the computer: https://mitpress
 Why learning programming is so hard (definitely going thru the desert of despair right now myself): http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 
 Complexity (computer science term): https://en.wikipedia.org/wiki/Programming_complexity
+
+Gentle Intro To Complexity: http://discrete.gr/complexity/
