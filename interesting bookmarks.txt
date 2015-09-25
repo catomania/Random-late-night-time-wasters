@@ -42,3 +42,5 @@ Why learning programming is so hard (definitely going thru the desert of despair
 Complexity (computer science term): https://en.wikipedia.org/wiki/Programming_complexity
 
 Gentle Intro To Complexity: http://discrete.gr/complexity/
+
+Python - why do some functions start w/ "__": http://stackoverflow.com/questions/8689964/python-why-do-some-functions-have-underscores-before-and-after-the-functio
