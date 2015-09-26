@@ -1,3 +1,5 @@
 Tracking progress for Hackerrank.
 
-Currently working on this puzzle: https://www.hackerrank.com/challenges/finding-the-percentage
+https://www.hackerrank.com/challenges/finding-the-percentage (solved - feedback received)
+ 
+https://www.hackerrank.com/challenges/python-lists
