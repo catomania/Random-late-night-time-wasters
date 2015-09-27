@@ -44,3 +44,5 @@ Complexity (computer science term): https://en.wikipedia.org/wiki/Programming_co
 Gentle Intro To Complexity: http://discrete.gr/complexity/
 
 Python - why do some functions start w/ "__": http://stackoverflow.com/questions/8689964/python-why-do-some-functions-have-underscores-before-and-after-the-functio
+
+http://www.dotnetperls.com/remove-duplicates-list-python
