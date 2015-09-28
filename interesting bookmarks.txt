@@ -46,3 +46,5 @@ Gentle Intro To Complexity: http://discrete.gr/complexity/
 Python - why do some functions start w/ "__": http://stackoverflow.com/questions/8689964/python-why-do-some-functions-have-underscores-before-and-after-the-function
 
 De-duplicating python lists using set: http://www.dotnetperls.com/remove-duplicates-list-python
+
+Lambda in Python creates anonymous functions: http://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
