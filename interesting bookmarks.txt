@@ -47,4 +47,6 @@ Python - why do some functions start w/ "__": http://stackoverflow.com/questions
 
 De-duplicating python lists using set: http://www.dotnetperls.com/remove-duplicates-list-python
 
+Python sorting lists of lists: http://jeffhoogland.blogspot.com/2013/06/python-sorting-lists-inside-of-lists.html
+
 Lambda in Python creates anonymous functions: http://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
