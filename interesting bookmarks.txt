@@ -52,3 +52,5 @@ Python sorting lists of lists: http://jeffhoogland.blogspot.com/2013/06/python-s
 Lambda in Python creates anonymous functions: http://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
 
 second largest number in python: http://stackoverflow.com/questions/19697504/second-largest-number-in-list-python
+
+Programming sucks; http://www.stilldrinking.org/programming-sucks
