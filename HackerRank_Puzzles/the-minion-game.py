@@ -4,7 +4,7 @@
 
 # Kevin: vowels
 
-# please note: this program can't take really long string inputs...(and doens't pass all the hackerrank tests)
+# please note: this program can't take really long string inputs...(and doesn't pass all the hackerrank tests), I'll add a new v2 if I can get write up a better script
 # first time working by myself on a moderate puzzle
 
 
