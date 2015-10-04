@@ -10,8 +10,6 @@
 
 word = str(raw_input())
 
-print word
-
 consonant_list = []
 
 vowel_list = []
