@@ -54,3 +54,5 @@ Lambda in Python creates anonymous functions: http://stackoverflow.com/questions
 second largest number in python: http://stackoverflow.com/questions/19697504/second-largest-number-in-list-python
 
 Programming sucks; http://www.stilldrinking.org/programming-sucks
+
+Advice from an old programmer: http://learnpythonthehardway.org/book/advice.html
