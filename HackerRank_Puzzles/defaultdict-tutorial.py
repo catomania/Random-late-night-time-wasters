@@ -7,7 +7,7 @@ from collections import defaultdict
 A = defaultdict(list) # I only use defaultdict here because the test is supposedly on defaultdicts
 B = defaultdict(list)
 
-match_count = 0 # figure out if any matches happened at all
+
 place_counter = 1 # return the list place for A if needed
 
 n, m = map(int,raw_input().split(" ")) # assign variables to the raw input values using map(function, iterable) 
@@ -32,7 +32,7 @@ for x in B['dict_2']: # for the number of lookup values (from list B)...
 		if x == y: # if there is a match
 			generated_list.append(place_counter) # then record the match's position on List A
 
-			match_count += 1 # count the number of times you get a match
+
 		place_counter += 1 # each time you move an element on List A, increase your count
 
 	if not generated_list: # if no matches for x in B, return -1 (as specified in the test)
