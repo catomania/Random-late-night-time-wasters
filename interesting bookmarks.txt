@@ -56,3 +56,5 @@ second largest number in python: http://stackoverflow.com/questions/19697504/sec
 Programming sucks; http://www.stilldrinking.org/programming-sucks
 
 Advice from an old programmer: http://learnpythonthehardway.org/book/advice.html
+
+Data Science tutorial: http://blog.brakmic.com/data-science-for-losers/
