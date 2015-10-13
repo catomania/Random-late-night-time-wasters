@@ -58,3 +58,5 @@ Programming sucks; http://www.stilldrinking.org/programming-sucks
 Advice from an old programmer: http://learnpythonthehardway.org/book/advice.html
 
 Data Science tutorial: http://blog.brakmic.com/data-science-for-losers/
+
+Learning strategies for programmers: http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
