@@ -64,3 +64,5 @@ Learning strategies for programmers: http://akaptur.com/blog/2015/10/10/effectiv
 Friendly Open Source projects should reserve specific issues for newbies: http://www.firsttimersonly.com/
 
 MOOC Algorithms (in Java): https://www.reddit.com/r/cscareerquestions/comments/3p1t9o/how_do_coding_bootcamp_grads_get_hired/
+
+Python objects and classes (visual guide): http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/
