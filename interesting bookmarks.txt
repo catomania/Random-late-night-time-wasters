@@ -62,3 +62,5 @@ Data Science tutorial: http://blog.brakmic.com/data-science-for-losers/
 Learning strategies for programmers: http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
 
 Friendly Open Source projects should reserve specific issues for newbies: http://www.firsttimersonly.com/
+
+MOOC Algorithms (in Java): https://www.reddit.com/r/cscareerquestions/comments/3p1t9o/how_do_coding_bootcamp_grads_get_hired/
