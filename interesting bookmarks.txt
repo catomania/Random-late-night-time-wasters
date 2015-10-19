@@ -66,3 +66,5 @@ Friendly Open Source projects should reserve specific issues for newbies: http:/
 MOOC Algorithms (in Java): https://www.reddit.com/r/cscareerquestions/comments/3p1t9o/how_do_coding_bootcamp_grads_get_hired/
 
 Python objects and classes (visual guide): http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/
+
+People on Reddit talking about their frustrations with programming: https://www.reddit.com/r/AskReddit/comments/3p7ti1/what_are_you_terrible_at_but_enjoy_enough_to_keep/cw3wsak
