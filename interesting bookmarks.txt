@@ -72,3 +72,5 @@ People on Reddit talking about their frustrations with programming: https://www.
 Tiny bit of encouragement about people who started coding later in life: http://www.b-list.org/weblog/2015/oct/19/destroy-all-hiring-processes/
 
 Tkinter create line: http://www.tkdocs.com/tutorial/canvas.html
+
+Python Parser (argparse): https://docs.python.org/3/library/argparse.html
