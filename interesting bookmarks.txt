@@ -74,3 +74,5 @@ Tiny bit of encouragement about people who started coding later in life: http://
 Tkinter create line: http://www.tkdocs.com/tutorial/canvas.html
 
 Python Parser (argparse): https://docs.python.org/3/library/argparse.html
+
+Python class tutorial: http://pythoncentral.io/introduction-to-python-classes/
