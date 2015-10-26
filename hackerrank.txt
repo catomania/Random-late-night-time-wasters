@@ -1,5 +1,0 @@
-Tracking progress for Hackerrank.
-
-https://www.hackerrank.com/challenges/finding-the-percentage (solved - feedback received)
- 
-https://www.hackerrank.com/challenges/python-lists
