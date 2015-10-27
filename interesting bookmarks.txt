@@ -78,3 +78,5 @@ Tkinter create line: http://www.tkdocs.com/tutorial/canvas.html
 Python Parser (argparse): https://docs.python.org/3/library/argparse.html
 
 Python class tutorial: http://pythoncentral.io/introduction-to-python-classes/
+
+Optimizing the League of Legends Codebase: http://engineering.riotgames.com/news/random-acts-optimization
