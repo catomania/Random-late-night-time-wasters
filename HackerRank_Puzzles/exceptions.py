@@ -1,6 +1,6 @@
 # https://www.hackerrank.com/challenges/exceptions
 
-# hackerrank isn't marking "2 $" as correct becuase their test is looking for a '$\r' (even though their sample output says '$')
+# hackerrank isn't marking "2 $" as correct becuase it marks my output as saying '$\r' (even though my output locally on sublime text says '$')
 
 # different types of built-in exceptions: https://docs.python.org/2/library/exceptions.html#module-exceptions
 
