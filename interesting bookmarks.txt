@@ -88,3 +88,5 @@ xkcd comic on Git: http://xkcd.com/1597/
 O notation (mathematical approximation on algorithm runtimes): https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 
 Radix sort (sort by one places, etc): https://en.wikipedia.org/wiki/Radix_sort
+
+Book I'm reading: The Pragmatic Programmer: https://pragprog.com/the-pragmatic-programmer/extracts/tips
