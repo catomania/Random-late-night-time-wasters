@@ -92,3 +92,5 @@ Radix sort (sort by one places, etc): https://en.wikipedia.org/wiki/Radix_sort
 Book I'm reading: The Pragmatic Programmer: https://pragprog.com/the-pragmatic-programmer/extracts/tips
 
 Python countdown timer using Tkinter: ttp://stackoverflow.com/questions/10596988/making-a-countdown-timer-with-python-and-tkinter
+
+Regex crossword: https://regexcrossword.com/
