@@ -96,3 +96,5 @@ Python countdown timer using Tkinter: ttp://stackoverflow.com/questions/10596988
 Regex crossword: https://regexcrossword.com/
 
 Python lambda functions: www.secnetix.de/olli/Python/lambda_functions.hawk
+
+Python and XML: http://www.diveintopython3.net/xml.html
