@@ -100,3 +100,5 @@ Python lambda functions: www.secnetix.de/olli/Python/lambda_functions.hawk
 Python and XML: http://www.diveintopython3.net/xml.html
 
 Python decorators: http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
+
+Socialist Millionaire: https://en.wikipedia.org/wiki/Socialist_millionaire
