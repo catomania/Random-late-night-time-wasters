@@ -1,0 +1,3 @@
+For things that are *not* a quick read
+
+"Introduction" to Algorithms by Cormen: http://www.mif.vu.lt/~valdas/ALGORITMAI/LITERATURA/Cormen/Cormen.pdf#page=9&zoom=auto,-135,117
