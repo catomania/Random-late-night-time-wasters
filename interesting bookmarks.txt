@@ -104,3 +104,5 @@ Python decorators: http://simeonfranklin.com/blog/2012/jul/1/python-decorators-i
 Socialist Millionaire: https://en.wikipedia.org/wiki/Socialist_millionaire
 
 Find and replace w/ Sublime Text: http://stackoverflow.com/questions/11404156/how-do-i-replace-text-in-a-selection
+
+Sorting nested lists: http://stackoverflow.com/questions/409370/sorting-and-grouping-nested-lists-in-python?answertab=votes#tab-top
