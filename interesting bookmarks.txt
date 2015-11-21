@@ -106,3 +106,5 @@ Socialist Millionaire: https://en.wikipedia.org/wiki/Socialist_millionaire
 Find and replace w/ Sublime Text: http://stackoverflow.com/questions/11404156/how-do-i-replace-text-in-a-selection
 
 Sorting nested lists: http://stackoverflow.com/questions/409370/sorting-and-grouping-nested-lists-in-python?answertab=votes#tab-top
+
+Loop invariant: https://en.wikipedia.org/wiki/Loop_invariant
