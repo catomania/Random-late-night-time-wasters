@@ -108,3 +108,5 @@ Find and replace w/ Sublime Text: http://stackoverflow.com/questions/11404156/ho
 Sorting nested lists: http://stackoverflow.com/questions/409370/sorting-and-grouping-nested-lists-in-python?answertab=votes#tab-top
 
 Loop invariant: https://en.wikipedia.org/wiki/Loop_invariant
+
+Access elements in list of lists: http://stackoverflow.com/questions/18449360/access-item-in-a-list-of-lists
