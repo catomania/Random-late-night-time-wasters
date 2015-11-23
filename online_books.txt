@@ -1,3 +1,6 @@
 For things that are *not* a quick read
 
 "Introduction" to Algorithms by Cormen: http://www.mif.vu.lt/~valdas/ALGORITMAI/LITERATURA/Cormen/Cormen.pdf#page=9&zoom=auto,-135,117
+
+
+How to Make Mistakes in Python http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp
