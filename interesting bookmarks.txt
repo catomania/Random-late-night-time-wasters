@@ -116,3 +116,5 @@ Python loop control: http://www.tutorialspoint.com/python/python_loop_control.ht
 Visual Guide to Python List Comprehensions: http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/
 
 Python module of the week: https://pymotw.com/2/contents.html
+
+Further reading after Automate The Boring Stuff: http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
