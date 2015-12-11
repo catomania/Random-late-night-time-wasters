@@ -114,3 +114,5 @@ Access elements in list of lists: http://stackoverflow.com/questions/18449360/ac
 Python loop control: http://www.tutorialspoint.com/python/python_loop_control.htm
 
 Visual Guide to Python List Comprehensions: http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/
+
+Python module of the week: https://pymotw.com/2/contents.html
