@@ -120,3 +120,5 @@ Python module of the week: https://pymotw.com/2/contents.html
 Further reading after Automate The Boring Stuff: http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
 
 Idiomatic Python: http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
+
+Python 2015 modules: https://news.ycombinator.com/item?id=10782969
